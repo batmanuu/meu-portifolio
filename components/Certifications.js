@@ -16,6 +16,10 @@ export default function Certifications(){
             <h3 className="font-semibold">Introdução à Cibersegurança</h3>
             <div className="text-sm text-neutral-400 mt-1">Cisco Networking Academy</div>
           </div>
+          <div className="card">
+            <h3 className="font-semibold">Hackers do Bem</h3>
+            <div className="text-sm text-neutral-400 mt-1">Cursando</div>
+          </div>
         </div>
       </div>
     </section>

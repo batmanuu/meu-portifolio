@@ -17,9 +17,9 @@ export default function Education(){
         </div>
         <div className="mt-6">
           <div className="card">
-            <h3 className="font-semibold">Residência em TIC — UEMA / BRISA</h3>
-            <div className="text-sm text-neutral-400 mt-1">2026 - Em andamento</div>
-            <p className="mt-2 text-neutral-300">Projeto de residência em tecnologia com aplicação prática em Python, IA e desenvolvimento mobile.</p>
+            <h3 className="font-semibold">Bacharelado Interdisciplinar em Ciência e Tecnologia</h3>
+            <div className="text-sm text-neutral-400 mt-1">Universidade Federal do Maranhão — 2019 - 2023</div>
+            <p className="mt-2 text-neutral-300">Formação interdisciplinar com base em ciência, tecnologia e aplicações computacionais.</p>
           </div>
         </div>
       </div>
